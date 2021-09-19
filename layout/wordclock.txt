@@ -1,0 +1,42 @@
+W F Ü N F D Z E H N
+A Z W A N Z I G S R
+N P V I E R T E L O
+I N A C H U V O R T
+H A L B Z W E I N S
+L Z W Ö L F Ü N F J
+S I E B E N D R E I
+B G E L F N E U N Y
+M V I E R A C H T F
+G Z E H N S E C H S
+
+
+HOURS:
+
+01   eins
+02   zwei
+03   drei
+04   vier
+05   fünf
+06   sechs
+07   sieben
+08   acht
+09   neun
+10   zehn
+11   elf
+12   zwölf
+
+MINUTES:
+
+00   HOUR
+05   fünf nach HOUR
+10   zehn nach HOUR
+15   viertel nach HOUR
+20   zwanzig nach HOUR
+25   fünf vor halb HOUR+1
+30   halb HOUR+1
+35   fünf nach halb HOUR+1
+40   zwanzig vor HOUR+1
+45   viertel vor HOUR+1
+50   zehn vor HOUR+1
+55   fünf vor HOUR+1
+
